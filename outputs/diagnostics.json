@@ -1,0 +1,14 @@
+{
+  "rows":41778,
+  "columns":[
+    "Index",
+    "demand"
+  ],
+  "missing_predictions":0,
+  "prediction_min":0.0,
+  "prediction_mean":0.1106014543,
+  "prediction_max":1.0,
+  "recursive_validation_r2":0.8802054659,
+  "beta":0.9,
+  "blend_previous":0.5
+}

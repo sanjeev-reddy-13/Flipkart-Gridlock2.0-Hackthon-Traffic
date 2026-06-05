@@ -1,0 +1,22 @@
+{
+  "rows":41778,
+  "columns":[
+    "Index",
+    "demand"
+  ],
+  "missing_predictions":0,
+  "prediction_min":0.0,
+  "prediction_mean":0.1715176427,
+  "prediction_max":1.0,
+  "recursive_validation_r2":0.7063786091,
+  "multi_split_mean_r2":0.7412869214,
+  "multi_split_scores":{
+    "seed_through_0_minutes":0.7063786091,
+    "seed_through_15_minutes":0.7273554102,
+    "seed_through_30_minutes":0.7404259798,
+    "seed_through_45_minutes":0.7564991928,
+    "seed_through_60_minutes":0.7757754147
+  },
+  "beta":0.85,
+  "blend_previous":0.55
+}
